@@ -1,0 +1,46 @@
+"""
+-------------------------------------------------------
+Assignment 5  Testing
+-------------------------------------------------------
+Author:  Jashanpreet Singh Jashanpreet Singh
+ID:      169046749
+Email:   jash6749@mylaurier.ca
+Version: 2024-02-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Equal: False
+Get_item: 2
+Append: [1, 2, 3, 2]
+Clean: [1, 2, 3]
+Combine: [1, 2, 3, 4, 5]
+Intersection: [1, 2, 3]
+Prepend: [0, 1, 2, 3]
+Remove_front: 0
+Remove_many: [1, 3]
+Split: [1, 2, 3] [4, 5]
+Split_alt: [] []
+Union: [1, 3]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Contains: False
+Equal: False
+Get_item: 2
+Clean: []
+Count: 1
+Find: 2
+Index: -1
+Intersection: [3]
+Max: 3
+Min: 1
+Peek: 1
+Remove: 3
+Remove_front: 1
+Remove_many: [3]
+Split: [1, 2] [3]
+Split_alt: [] []
+Split_key: [] [3]
+Union: [1, 2, 3]
